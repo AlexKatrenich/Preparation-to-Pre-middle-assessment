@@ -98,3 +98,12 @@ https://www.youtube.com/watch?v=c4_5rqvmDFU (the most interesting video about DB
 
 ### Will be plus 
 	Участь в конференціях, менторство.
+	
+	
+### Interview bullying =)
+	1) How to create custom view?
+	2) Java multithreading, PoolExecutor
+	3) Coroutines + Flow + Live Data (uses expiriense)
+	4) ViewProperty Animator, Object Animator
+	5) Kotlin Core (inline functions, delegates)
+	6) Rxjava - PublishSubject, ReplaySubject, BehaviorSubject, AsyncSubject, Observable, Single, Flowable(backpressure strategy), OPERATORS
